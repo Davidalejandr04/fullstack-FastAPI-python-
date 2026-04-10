@@ -1,6 +1,6 @@
 # Login y gestión de tareas
 
-En este proyecto presento la construcción de un backend utilizando el lenguaje de progrmación Python con fastAPI  y un frontend desarrollado con React (Vite).
+En este proyecto presento la construcción de un backend utilizando el lenguaje de programación Python con fastAPI  y un frontend desarrollado con React (Vite).
 La aplicación permite a los usuarios registrarse, iniciar sesión mediante autenticación JWT y gestionar sus tareas personales de manera segura.
 
 ## Tecnologías utilizadas
